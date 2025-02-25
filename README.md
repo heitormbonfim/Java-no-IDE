@@ -1,6 +1,5 @@
 Heitor, here's an updated README.md with a new section showing you how to compile an entire project (all Java files in the folder and its subfolders) into a `build` folder and then run it. Check it out:
 
-````md
 # How to Use Java Without an IDE
 
 ## Why?
@@ -14,7 +13,6 @@ Use the `javac` command to compile a Java file:
 ```sh
 javac Main.java
 ```
-````
 
 This command creates a `Main.class` file in the current directory.
 
